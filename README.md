@@ -1,2 +1,2 @@
 # pic
-### 基于GitHub建立的个人图床。
+### 基于GitHub和PicGo建立的个人图床。
